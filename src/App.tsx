@@ -9,6 +9,7 @@ import imageMe from './assets/me.jpg'
 const  pcStyles: Record<string, React.CSSProperties> = {
   container: {
     position: 'fixed',
+    zIndex: '1000',
     top: '20px',
     right: '80px',
     display: 'flex',
@@ -43,6 +44,7 @@ const  pcStyles: Record<string, React.CSSProperties> = {
 const mobileStyles: Record<string, React.CSSProperties> = {
   container: {
     position: 'fixed',
+    zIndex: '1000',
     bottom: '40px',
     right: '20px',
     display: 'flex',
