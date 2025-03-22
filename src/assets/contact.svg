@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#07c160" />
+  <text x="100" y="100" font-family="Arial" font-size="16" text-anchor="middle" fill="white">联系创作者微信</text>
+  <rect x="50" y="50" width="100" height="100" fill="none" stroke="white" stroke-width="2" />
+  <path d="M50,50 L150,150 M50,150 L150,50" stroke="white" stroke-width="2" />
+</svg> 
