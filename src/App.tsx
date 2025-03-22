@@ -1,5 +1,4 @@
 import { Tooltip, Modal, Flex } from 'antd'
-import './App.css'
 import app_wx from './assets/app_wx.jpeg'
 import wx from './assets/wx.jpg'
 import tb from './assets/tb.jpg'
